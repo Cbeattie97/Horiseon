@@ -1,4 +1,3 @@
-https://cbeattie97.github.io/Horiseon/
 
 # <Horiseon>
 
@@ -6,10 +5,12 @@ https://cbeattie97.github.io/Horiseon/
 
 This webpage was created to help users navigate the services of Horiseon. It has been created in line with the expected accessibility standards in mind. 
 
+https://cbeattie97.github.io/Horiseon/
+
 
 ## Installation
 
-n/a
+Search for the page inside your browser or from within the repository. 
 
 ## Usage
 
